@@ -1,0 +1,9 @@
+tqdm
+editdistance
+pillow
+opencv-python
+torch
+torchvision
+tensorboardX
+transformers
+tensorflow-gpu==1.14.0
