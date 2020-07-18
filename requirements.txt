@@ -6,4 +6,4 @@ torch
 torchvision
 tensorboardX
 transformers
-tensorflow-gpu==1.14.0
+tensorflow-gpu
