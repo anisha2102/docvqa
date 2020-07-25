@@ -52,6 +52,7 @@ CUDA_VISIBLE_DEVICES=0 python run_docvqa.py \
     --train_json <train-output-json-path> \
 ```
 ## Model Checkpoints
+Download the pytorch_model.bin file from the link below and copy it to the models folder.
 [Google Drive Link](https://drive.google.com/file/d/1W4E06nb-tDcjKVN9iCjjk0b_3EyHkqVr/view?usp=sharing)
 
 ## Demo
