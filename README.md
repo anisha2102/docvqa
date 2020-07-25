@@ -52,5 +52,8 @@ CUDA_VISIBLE_DEVICES=0 python run_docvqa.py \
     --train_json <train-output-json-path> \
 ```
 
+## Demo
+Try out the demo on a sample datapoint with demo.ipynb
+
 ## Acknowledgements
 The code and pretrained models are based on [LayoutLM](https://github.com/microsoft/unilm/tree/master/layoutlm) and [HuggingFace Transformers](https://github.com/huggingface/transformers). Many thanks for their amazing open source contributions.
