@@ -1,4 +1,4 @@
-# Document Visual Question Answering
+# Document Visual Question Answering (DocVQA)
 This repo hosts the basic functional code for our approach entitled [HyperDQA](https://rrc.cvc.uab.es/?ch=17&com=evaluation&view=method_info&task=1&m=75548) in the [Document Visual Question Answering](https://rrc.cvc.uab.es/?ch=17) competition hosted as a part of [Workshop on Text and Documents in Deep Learning Era](https://cvpr2020text.wordpress.com) at [CVPR2020](http://cvpr2020.thecvf.com). Our approach stands at position 4 on the [Leaderboard](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=1).
 
 ## Installation
